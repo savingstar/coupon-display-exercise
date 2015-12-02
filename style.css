@@ -1,0 +1,7 @@
+/*
+  Just a style used for testing that this CSS file
+  is being properly pulled in by the index.html file
+*/
+.large-text {
+  font-size: 48px;
+}
