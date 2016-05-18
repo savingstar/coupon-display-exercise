@@ -8,7 +8,7 @@ From an information architecture perspective, a coupon "cell" consists of a head
 ![Example Coupon](/coupon_example.png)
 
 You can consider the exercise mostly complete when you have the below working:
-* Accommodate for text that does not fit in its container (title &amp; description for example). At a minimum an ellipsis should appear when there is more text than fits in the container, and no ellipsis when the entire text does fit.
+* Accommodate for text that does not fit in its container (title &amp; description for example). At a minimum an ellipsis should appear when there is more text than fits in the container, and no ellipsis when the entire text does fit. If an ellipsis appears, provide a way to view the entire text.
 * Display an image for the coupon in the body section, as well as the description. Bonus points for a creative approach to this.
 * Design for the eventuality that the body section (between footer and header) can range in height, while allowing the image and description text to remain vertically centered. (See 'Vertical Alignment Example' Below)
 * Display a button to activate the coupon in the footer section.
